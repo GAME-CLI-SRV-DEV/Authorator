@@ -14,7 +14,7 @@ https-port: 8080
 # Authentication Method 2 Setup
 # this will kick you when you join localhostname:port.
 # this will show code in your face, but you have to join everytime when the ViaProxy Instance is Reopened.
-auth-port:25567
+kauth-port: 25567
 kickline1: input the auth code in aka.ms/remoteconnect: JE:[CODE] BE:[CODE] 
 ```
 # Alternatives:
