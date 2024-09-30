@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.yourname.viaproxyplugin'
+group 'org.duckdns.anarchyconnect.viaproxy'
 version '1.0-SNAPSHOT'
 
 repositories {
