@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    implementation "net.raphimc:ViaProxy:x.x.x" // Replace x.x.x with the latest version
+    implementation "net.raphimc:ViaProxy:3.3.3" // Replace x.x.x with the latest version
 }
 
 sourceCompatibility = '1.8'
